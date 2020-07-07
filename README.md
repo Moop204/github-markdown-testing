@@ -45,7 +45,7 @@ a
 <a href="javascript:alert('Hello World!');">Execute JavaScript</a>
 
 pre
- <div style="width:200px;overflow:auto">
+ <div style="width:200px;overflow:auto;color:red">
 <pre>This is a pre with a fixed width. It will use as much space as specified.</pre>
 </div>
  
