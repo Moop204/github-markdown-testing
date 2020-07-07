@@ -42,7 +42,12 @@ a
 
 <a href="https://sampleswap.org/samples-ghost/VOCAL%20ACAPELLAS/Andres%20Franco/9836[kb]andrew-franco-Sola-Solita-cc-by.mp3.mp3">An audio file</a>
 
- <a href="javascript:alert('Hello World!');">Execute JavaScript</a>
+<a href="javascript:alert('Hello World!');">Execute JavaScript</a>
+
+pre
+ <div style="width:200px;overflow:auto">
+<pre>This is a pre with a fixed width. It will use as much space as specified.</pre>
+</div>
  
 <input type="button">
 <input type="checkbox">
