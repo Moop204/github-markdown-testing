@@ -12,6 +12,7 @@ What are the limits of Github's markdown?
 <input type="range">
 <input type="reset">
 <input type="url">
+Keyboard <kbd>KeYbOaRd</kbd>
  <form oninput="x.value=parseInt(a.value)+parseInt(b.value)">
   <input type="range" id="a" value="50">
   +<input type="number" id="b" value="25">
