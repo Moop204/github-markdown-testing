@@ -34,15 +34,15 @@ em
 <em>word</em>
 
 a
-<a href="github.com">
+<a href="https://www.github.com">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F78.media.tumblr.com%2F64e0843979e6458d8ed9eca74633a8db%2Ftumblr_onfjuwH2LC1v4ks6xo1_500.jpg">
 </a>
 
-<a href="www.github.com" target="_blank">Go to Github</a>
-<a href="www.github.com" target="_top">Go to Github</a>
-<a href="www.github.com" target="_self">Go to Github</a>
-<a href="www.github.com" target="_parent">Go to Github</a>
+<a href="https://www.github.com">Go to Github</a>
 
+<a href="https://sampleswap.org/samples-ghost/VOCAL%20ACAPELLAS/Andres%20Franco/9836[kb]andrew-franco-Sola-Solita-cc-by.mp3.mp3">An audio file</a>
+
+ <a href="javascript:alert('Hello World!');">Execute JavaScript</a>
  
 <input type="button">
 <input type="checkbox">
