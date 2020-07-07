@@ -46,7 +46,7 @@ a
 
 pre
  <div style="width:200px;overflow:auto;color:red">
-<pre>This is a pre with a fixed width. It will use as much space as specified.</pre>
+<pre>smol text</pre>
 </div>
  
 <input type="button">
